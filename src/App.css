@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  min-width: 300px;
+  margin: 0 auto;
+  padding: 50px 70px;
+  text-align: center;
+  border: 6px solid rgb(228, 246, 63);
+  background-color:#9dddff;
+  border-radius: 8px;
+  font-family: "Montserrat", sans-serif;
+}
