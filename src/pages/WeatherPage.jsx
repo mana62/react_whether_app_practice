@@ -54,7 +54,7 @@ export default function WeatherPage() {
           className={weatherStyles.icon}
         />
         Wx: {weather.weather[0].description}
-      </p>
+        </p>
     </>
   );
 }
